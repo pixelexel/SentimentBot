@@ -1,4 +1,4 @@
 # SentimentBot
 A Twitter bot handled by account @SentimentsBot which provides sentiments about a keyword mentioned to it.
 
-This bot uses a combination of the sentiment analysis python script from https://github.com/pixelexel/Sentimental_Tweets and a Node.js implementation of a simple Twitter bot
+This bot uses sentiment analysis from https://github.com/pixelexel/Sentimental_Tweets and a Node.js to implement a Twitter bot that can respond with sentiments pertaining to a keyword on Twitter when mentioned.
